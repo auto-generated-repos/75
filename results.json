@@ -1,7 +1,7 @@
 {
   "config": {
-    "configFile": "/home/runner/work/playwright-template/playwright-template/playwright.config.ts",
-    "rootDir": "/home/runner/work/playwright-template/playwright-template/tests",
+    "configFile": "/home/runner/work/75/75/playwright.config.ts",
+    "rootDir": "/home/runner/work/75/75/tests",
     "forbidOnly": true,
     "fullyParallel": true,
     "globalSetup": null,
@@ -29,13 +29,13 @@
     "quiet": false,
     "projects": [
       {
-        "outputDir": "/home/runner/work/playwright-template/playwright-template/test-results",
+        "outputDir": "/home/runner/work/75/75/test-results",
         "repeatEach": 1,
         "retries": 2,
         "metadata": {},
         "id": "DE_CHROME",
         "name": "DE_CHROME",
-        "testDir": "/home/runner/work/playwright-template/playwright-template/tests",
+        "testDir": "/home/runner/work/75/75/tests",
         "testIgnore": [],
         "testMatch": [
           "**/*.@(spec|test).?(c|m)[jt]s?(x)"
@@ -43,13 +43,13 @@
         "timeout": 30000
       },
       {
-        "outputDir": "/home/runner/work/playwright-template/playwright-template/test-results",
+        "outputDir": "/home/runner/work/75/75/test-results",
         "repeatEach": 1,
         "retries": 2,
         "metadata": {},
         "id": "DE_FIREFOX",
         "name": "DE_FIREFOX",
-        "testDir": "/home/runner/work/playwright-template/playwright-template/tests",
+        "testDir": "/home/runner/work/75/75/tests",
         "testIgnore": [],
         "testMatch": [
           "**/*.@(spec|test).?(c|m)[jt]s?(x)"
@@ -57,13 +57,13 @@
         "timeout": 30000
       },
       {
-        "outputDir": "/home/runner/work/playwright-template/playwright-template/test-results",
+        "outputDir": "/home/runner/work/75/75/test-results",
         "repeatEach": 1,
         "retries": 2,
         "metadata": {},
         "id": "DE_SAFARI",
         "name": "DE_SAFARI",
-        "testDir": "/home/runner/work/playwright-template/playwright-template/tests",
+        "testDir": "/home/runner/work/75/75/tests",
         "testIgnore": [],
         "testMatch": [
           "**/*.@(spec|test).?(c|m)[jt]s?(x)"
@@ -71,13 +71,13 @@
         "timeout": 30000
       },
       {
-        "outputDir": "/home/runner/work/playwright-template/playwright-template/test-results",
+        "outputDir": "/home/runner/work/75/75/test-results",
         "repeatEach": 1,
         "retries": 2,
         "metadata": {},
         "id": "MO_PIXEL_7",
         "name": "MO_PIXEL_7",
-        "testDir": "/home/runner/work/playwright-template/playwright-template/tests",
+        "testDir": "/home/runner/work/75/75/tests",
         "testIgnore": [],
         "testMatch": [
           "**/*.@(spec|test).?(c|m)[jt]s?(x)"
@@ -85,13 +85,13 @@
         "timeout": 30000
       },
       {
-        "outputDir": "/home/runner/work/playwright-template/playwright-template/test-results",
+        "outputDir": "/home/runner/work/75/75/test-results",
         "repeatEach": 1,
         "retries": 2,
         "metadata": {},
         "id": "MO_IPHONE15",
         "name": "MO_IPHONE15",
-        "testDir": "/home/runner/work/playwright-template/playwright-template/tests",
+        "testDir": "/home/runner/work/75/75/tests",
         "testIgnore": [],
         "testMatch": [
           "**/*.@(spec|test).?(c|m)[jt]s?(x)"
@@ -99,13 +99,13 @@
         "timeout": 30000
       },
       {
-        "outputDir": "/home/runner/work/playwright-template/playwright-template/test-results",
+        "outputDir": "/home/runner/work/75/75/test-results",
         "repeatEach": 1,
         "retries": 2,
         "metadata": {},
         "id": "DE_EDGE",
         "name": "DE_EDGE",
-        "testDir": "/home/runner/work/playwright-template/playwright-template/tests",
+        "testDir": "/home/runner/work/75/75/tests",
         "testIgnore": [],
         "testMatch": [
           "**/*.@(spec|test).?(c|m)[jt]s?(x)"
@@ -153,7 +153,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-12-04T14:42:36.330Z",
+                      "startTime": "2024-12-04T16:28:48.281Z",
                       "attachments": []
                     }
                   ],
@@ -185,7 +185,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-12-04T14:42:36.818Z",
+                      "startTime": "2024-12-04T16:28:48.770Z",
                       "attachments": []
                     }
                   ],
@@ -212,12 +212,12 @@
                     {
                       "workerIndex": 2,
                       "status": "passed",
-                      "duration": 9,
+                      "duration": 7,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-12-04T14:42:37.319Z",
+                      "startTime": "2024-12-04T16:28:49.260Z",
                       "attachments": []
                     }
                   ],
@@ -249,7 +249,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-12-04T14:42:37.804Z",
+                      "startTime": "2024-12-04T16:28:49.756Z",
                       "attachments": []
                     }
                   ],
@@ -276,12 +276,12 @@
                     {
                       "workerIndex": 4,
                       "status": "passed",
-                      "duration": 9,
+                      "duration": 7,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-12-04T14:42:38.324Z",
+                      "startTime": "2024-12-04T16:28:50.248Z",
                       "attachments": []
                     }
                   ],
@@ -308,12 +308,12 @@
                     {
                       "workerIndex": 5,
                       "status": "passed",
-                      "duration": 6,
+                      "duration": 7,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-12-04T14:42:38.819Z",
+                      "startTime": "2024-12-04T16:28:50.742Z",
                       "attachments": []
                     }
                   ],
@@ -332,8 +332,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-12-04T14:42:35.819Z",
-    "duration": 3023.7110000000002,
+    "startTime": "2024-12-04T16:28:47.764Z",
+    "duration": 3001.7329999999997,
     "expected": 6,
     "skipped": 0,
     "unexpected": 0,
